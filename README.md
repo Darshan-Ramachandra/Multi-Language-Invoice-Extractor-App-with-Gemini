@@ -33,7 +33,7 @@ A powerful image-based invoice parsing app that uses **Google Gemini** to intell
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/multi-lang-invoice-extractor.git
+git clone https://github.com/Darshan-Ramachandra/SQL-Query-Gemini.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -107,7 +107,7 @@ Click the "Fork" button in GitHub to copy the repo to your account.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/multi-lang-invoice-extractor.git
+git clone https://github.com/Darshan-Ramachandra/SQL-Query-Gemini.git
 ```
 
 ### 3. Create a Branch
